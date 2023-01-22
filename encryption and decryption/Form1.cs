@@ -189,7 +189,7 @@ namespace encryption_and_decryption
                 {
                     if (checkedListBox2.CheckedItems.Count != 0)
                     {
-                        if (MessageBox.Show("정말 복호화하시겠습니까?", "복호화 확인", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                        if (MessageBox.Show("복호화하시겠습니까?", "복호화 확인", MessageBoxButtons.YesNo) == DialogResult.Yes)
                         {
                             run(decKey, false);
                             MessageBox.Show("복호화 완료");
@@ -226,6 +226,7 @@ namespace encryption_and_decryption
             if (dialog.ShowDialog() == DialogResult.OK)
             {
                 //path를 셀렉된 위치로 지정
+                
                 string path = dialog.SelectedPath;
 
                 //checkedListBox1 Reset
