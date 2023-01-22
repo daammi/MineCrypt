@@ -1,0 +1,306 @@
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.AssemblyReference.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Form1.resources
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.GenerateResource.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfoInputs.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfo.cs
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CoreCompileInputs.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.exe
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.deps.json
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.json
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.dev.json
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.genruntimeconfig.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CopyComplete
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.exe
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.deps.json
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.json
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.dev.json
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.AssemblyReference.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Form1.resources
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.GenerateResource.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfoInputs.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfo.cs
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CoreCompileInputs.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CopyComplete
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption (3)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.genruntimeconfig.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\encryption and decryption\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Properties.Resources.resources
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.exe
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.deps.json
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.json
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.dev.json
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Form1.resources
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Properties.Resources.resources
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.GenerateResource.cache
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfo.cs
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CopyComplete
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.genruntimeconfig.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.exe
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.deps.json
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.json
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.dev.json
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.AssemblyReference.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Form1.resources
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Properties.Resources.resources
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.GenerateResource.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfoInputs.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfo.cs
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CoreCompileInputs.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CopyComplete
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\sim52\Desktop\學\심화프로젝트\암복호화 프로그램\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.genruntimeconfig.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.AssemblyReference.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Form1.resources
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Properties.Resources.resources
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.GenerateResource.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfoInputs.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfo.cs
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CoreCompileInputs.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.exe
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.deps.json
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.json
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.dev.json
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CopyComplete
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 - 복사본\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.genruntimeconfig.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.exe
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.deps.json
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.json
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.dev.json
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.AssemblyReference.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Form1.resources
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Properties.Resources.resources
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.GenerateResource.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfoInputs.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfo.cs
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CoreCompileInputs.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CopyComplete
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.genruntimeconfig.cache
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.exe
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.deps.json
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.json
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.dev.json
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Form1.resources
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Properties.Resources.resources
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.GenerateResource.cache
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfo.cs
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CopyComplete
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\user\Desktop\심화프로젝트\암복호화 프로그램 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.genruntimeconfig.cache
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.exe
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.deps.json
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.json
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.dev.json
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.AssemblyReference.cache
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Form1.resources
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Properties.Resources.resources
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.GenerateResource.cache
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfoInputs.cache
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfo.cs
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CoreCompileInputs.cache
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CopyComplete
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\김정현\Documents\카카오톡 받은 파일\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.genruntimeconfig.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.exe
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.deps.json
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.json
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.dev.json
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.AssemblyReference.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Form1.resources
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Properties.Resources.resources
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.GenerateResource.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfoInputs.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfo.cs
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CoreCompileInputs.cache
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CopyComplete
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\sim52\Desktop\學\심화프로젝트\MineCrypt 최종\암복호화 프로그램 최종 (2)\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.genruntimeconfig.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.exe
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.deps.json
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.json
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.runtimeconfig.dev.json
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.AssemblyReference.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Form1.resources
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption_and_decryption.Properties.Resources.resources
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.GenerateResource.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfoInputs.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.AssemblyInfo.cs
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CoreCompileInputs.cache
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.csproj.CopyComplete
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\ref\encryption and decryption.dll
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.pdb
+C:\Users\김정현\Desktop\學\상반기 심화프로젝트\MineCrypt 최종\encryption and decryption\obj\Debug\net5.0-windows\encryption and decryption.genruntimeconfig.cache
